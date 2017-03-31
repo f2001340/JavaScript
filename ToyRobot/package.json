@@ -1,0 +1,14 @@
+{
+  "name": "toyrobot",
+  "version": "1.0.0",
+  "description": "toy robot program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Majety",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
